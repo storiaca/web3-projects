@@ -11,3 +11,7 @@ https://github.com/adrianhajdin/project_web3.0
 ## Test solidity locally
 
 https://hardhat.org/
+
+## Testing eth
+
+https://goerli.net/
